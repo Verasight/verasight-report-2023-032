@@ -1,0 +1,221 @@
+question_id,option_id,option_label,is_missing
+2023-032_q1,1,Joe Biden,false
+2023-032_q1,2,Donald Trump,false
+2023-032_q1,3,Ron DeSantis,false
+2023-032_q1,4,Gavin Newsom,false
+2023-032_q1,5,Some other Democrat,false
+2023-032_q1,6,Some other Republican,false
+2023-032_q10,1,Strongly Disagree,false
+2023-032_q10,2,Disagree,false
+2023-032_q10,3,Somewhat Disagree,false
+2023-032_q10,4,Neither Agree nor Disagree,false
+2023-032_q10,5,Somewhat Agree,false
+2023-032_q10,6,Agree,false
+2023-032_q10,7,Strongly Agree,false
+2023-032_q11,1,Take the lead,false
+2023-032_q11,2,Wait for public support,false
+2023-032_q11,3,Don’t know,false
+2023-032_q12,1,"High inflation/Thriving economy, low unemployment",false
+2023-032_q12,2,"Low inflation/Recession, high unemployment",false
+2023-032_q13,1,Strongly Against,false
+2023-032_q13,2,Against,false
+2023-032_q13,3,In Favor,false
+2023-032_q13,4,Strongly In Favor,false
+2023-032_q14,1,Strongly approve,false
+2023-032_q14,2,Somewhat approve,false
+2023-032_q14,3,Somewhat disapprove,false
+2023-032_q14,4,Strongly disapprove,false
+2023-032_q15,1,All of the time,false
+2023-032_q15,2,Most of the time,false
+2023-032_q15,3,Sometimes,false
+2023-032_q15,4,"Rarely, but it is accurate sometimes",false
+2023-032_q15,5,Never,false
+2023-032_q17,1,Extremely important,false
+2023-032_q17,2,Somewhat important,false
+2023-032_q17,3,Equally important to all other issues,false
+2023-032_q17,4,Somewhat not important,false
+2023-032_q17,5,Not important at all,false
+2023-032_q18,1,Very knowledgeable,false
+2023-032_q18,2,Moderately knowledgeable,false
+2023-032_q18,3,Mildly knowledgeable,false
+2023-032_q18,4,Not at all knowledgeable,false
+2023-032_q19,1,Yes,false
+2023-032_q19,2,No,false
+2023-032_q19,3,Don’t Know,false
+2023-032_q19,4,Refuse to Answer,false
+2023-032_q2,1,Strongly disagree 1,false
+2023-032_q2,2,2,false
+2023-032_q2,3,3,false
+2023-032_q2,4,4,false
+2023-032_q2,5,5,false
+2023-032_q2,6,6,false
+2023-032_q2,7,Strongly agree 7,false
+2023-032_q21,1,Would be less likely to vote for him/her,false
+2023-032_q21,2,"Neither more nor less likely to vote for him/her, given everything else I would know about the candidate",false
+2023-032_q21,3,Would be more likely to vote for him/her,false
+2023-032_q22,1,1 No effort at all,false
+2023-032_q22,2,2,false
+2023-032_q22,3,3,false
+2023-032_q22,4,4,false
+2023-032_q22,5,5 Moderate effort,false
+2023-032_q22,6,6,false
+2023-032_q22,7,7,false
+2023-032_q22,8,8,false
+2023-032_q22,9,9,false
+2023-032_q22,10,10 Very strong effort,false
+2023-032_q23,1,q23_1,false
+2023-032_q23,2,q23_2,false
+2023-032_q23,3,q23_3,false
+2023-032_q23,4,q23_4,false
+2023-032_q23,5,q23_5,false
+2023-032_q23,6,q23_6,false
+2023-032_q23,7,q23_7,false
+2023-032_q23,8,q23_8,false
+2023-032_q25,1,A lot,false
+2023-032_q25,2,Some,false
+2023-032_q25,3,Not too much,false
+2023-032_q25,4,Not at all,false
+2023-032_q26,1,Strongly Disagree,false
+2023-032_q26,2,Disagree,false
+2023-032_q26,3,Somewhat Disagree,false
+2023-032_q26,4,Neither Agree Nor Disagree,false
+2023-032_q26,5,Somewhat Agree,false
+2023-032_q26,6,Agree,false
+2023-032_q26,7,Strongly Agree,false
+2023-032_q27,1,A Democracy,false
+2023-032_q27,2,A Republic,false
+2023-032_q28,1,Favorable,false
+2023-032_q28,2,Unfavorable,false
+2023-032_q28,3,Don’t know,false
+2023-032_q28,4,I haven’t heard of them,false
+2023-032_q3,1,q3_1,false
+2023-032_q3,2,q3_2,false
+2023-032_q3,3,q3_3,false
+2023-032_q3,4,q3_4,false
+2023-032_q3,5,q3_5,false
+2023-032_q3,6,q3_6,false
+2023-032_q3,7,q3_7,false
+2023-032_q3,8,q3_8,false
+2023-032_q30,1,Yes,false
+2023-032_q30,2,No,false
+2023-032_q30,3,Prefer not to answer,false
+2023-032_q31,1,Very Privileged,false
+2023-032_q31,2,Somewhat Privileged,false
+2023-032_q31,3,Somewhat Disadvantaged,false
+2023-032_q31,4,Very Disadvantaged,false
+2023-032_q32,1,Very favorable,false
+2023-032_q32,2,Somewhat favorable,false
+2023-032_q32,3,Middle of the road,false
+2023-032_q32,4,Somewhat unfavorable,false
+2023-032_q32,5,Very unfavorable,false
+2023-032_q33,1,q33_1,false
+2023-032_q33,2,q33_10,false
+2023-032_q33,3,q33_2,false
+2023-032_q33,4,q33_3,false
+2023-032_q33,5,q33_4,false
+2023-032_q33,6,q33_5,false
+2023-032_q33,7,q33_6,false
+2023-032_q33,8,q33_7,false
+2023-032_q33,9,q33_8,false
+2023-032_q33,10,q33_9,false
+2023-032_q34_1,1,5 Very responsible,false
+2023-032_q34_1,2,4,false
+2023-032_q34_1,3,3,false
+2023-032_q34_1,4,2,false
+2023-032_q34_1,5,1 A little responsible,false
+2023-032_q34_10,1,5 Very responsible,false
+2023-032_q34_10,2,4,false
+2023-032_q34_10,3,3,false
+2023-032_q34_10,4,2,false
+2023-032_q34_10,5,1 A little responsible,false
+2023-032_q34_2,1,5 Very responsible,false
+2023-032_q34_2,2,4,false
+2023-032_q34_2,3,3,false
+2023-032_q34_2,4,2,false
+2023-032_q34_2,5,1 A little responsible,false
+2023-032_q34_3,1,5 Very responsible,false
+2023-032_q34_3,2,4,false
+2023-032_q34_3,3,3,false
+2023-032_q34_3,4,2,false
+2023-032_q34_3,5,1 A little responsible,false
+2023-032_q34_4,1,5 Very responsible,false
+2023-032_q34_4,2,4,false
+2023-032_q34_4,3,3,false
+2023-032_q34_4,4,2,false
+2023-032_q34_4,5,1 A little responsible,false
+2023-032_q34_5,1,5 Very responsible,false
+2023-032_q34_5,2,4,false
+2023-032_q34_5,3,3,false
+2023-032_q34_5,4,2,false
+2023-032_q34_5,5,1 A little responsible,false
+2023-032_q34_6,1,5 Very responsible,false
+2023-032_q34_6,2,4,false
+2023-032_q34_6,3,3,false
+2023-032_q34_6,4,2,false
+2023-032_q34_6,5,1 A little responsible,false
+2023-032_q34_7,1,5 Very responsible,false
+2023-032_q34_7,2,4,false
+2023-032_q34_7,3,3,false
+2023-032_q34_7,4,2,false
+2023-032_q34_7,5,1 A little responsible,false
+2023-032_q34_8,1,5 Very responsible,false
+2023-032_q34_8,2,4,false
+2023-032_q34_8,3,3,false
+2023-032_q34_8,4,2,false
+2023-032_q34_8,5,1 A little responsible,false
+2023-032_q34_9,1,5 Very responsible,false
+2023-032_q34_9,2,4,false
+2023-032_q34_9,3,3,false
+2023-032_q34_9,4,2,false
+2023-032_q34_9,5,1 A little responsible,false
+2023-032_q35,1,q35_1,false
+2023-032_q35,2,q35_2,false
+2023-032_q35,3,q35_3,false
+2023-032_q35,4,q35_4,false
+2023-032_q36,1,Less than 10 percent would not vote for a woman,false
+2023-032_q36,2,Between 10-20 percent,false
+2023-032_q36,3,Between 20-30 percent,false
+2023-032_q36,4,Between 30-40 percent,false
+2023-032_q36,5,Between 40-50 percent,false
+2023-032_q36,6,Between 50-60 percent,false
+2023-032_q36,7,More than 60 percent would not vote for a woman,false
+2023-032_q37,1,q37_1,false
+2023-032_q37,2,q37_2,false
+2023-032_q38,1,Yes,false
+2023-032_q38,2,No,false
+2023-032_q38,3,Unsure,false
+2023-032_q4,1,q4_1,false
+2023-032_q4,2,q4_2,false
+2023-032_q4,3,q4_3,false
+2023-032_q4,4,q4_4,false
+2023-032_q4,5,q4_5,false
+2023-032_q4,6,q4_6,false
+2023-032_q4,7,q4_7,false
+2023-032_q5,1,Yes,false
+2023-032_q5,2,No,false
+2023-032_q5,3,Don’t know,false
+2023-032_q6,1,q6_1,false
+2023-032_q6,2,q6_2,false
+2023-032_q6,3,q6_3,false
+2023-032_q6,4,q6_4,false
+2023-032_q6,5,q6_5,false
+2023-032_q6,6,q6_6,false
+2023-032_q7,1,Yes,false
+2023-032_q7,2,No,false
+2023-032_q7,3,Not sure,false
+2023-032_q8,1,Not all extreme,false
+2023-032_q8,2,A little extreme,false
+2023-032_q8,3,Somewhat extreme,false
+2023-032_q8,4,Extreme,false
+2023-032_q8,5,Very extreme,false
+2023-032_q9,1,Strongly Disagree,false
+2023-032_q9,2,Disagree,false
+2023-032_q9,3,Somewhat Disagree,false
+2023-032_q9,4,Neither Agree nor Disagree,false
+2023-032_q9,5,Somewhat Agree,false
+2023-032_q9,6,Agree,false
+2023-032_q9,7,Strongly Agree,false
+2024-006_a121_hobbes,1,Not difficult at all,false
+2024-006_a121_hobbes,2,Somewhat difficult,false
+2024-006_a121_hobbes,3,Difficult,false
+2024-006_a121_hobbes,4,Extremely difficult,false
